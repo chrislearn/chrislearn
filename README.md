@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chrislearn&show_icons=true" alt="Chrislearn Young' github stats" />
+
+### Hi there, I'm [Chrislearn Young](https://chrislearn.im) 🎉
+
+- 👨 Chinese 🇨🇳
+- 💗 Programming
+- 🌏 Open Source
+- 💻 Rust, HTML5, NodeJS
+
+[![chrislearn](https://github-profile-trophy.vercel.app/?username=chrislearn&column=7&margin-w=10&no-bg=true)](https://github.com/chrislearn/chrislearn)
