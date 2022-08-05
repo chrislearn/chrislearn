@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Chrislearn Young](https://chrislearn.im) 🎉
 
-- 👨 Chinese 🇨🇳
+- 👨 Nanjing, China 🇨🇳
 - 💗 Programming
 - 🌏 Open Source
 - 💻 Rust, HTML5, NodeJS
