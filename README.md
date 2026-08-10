@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chrislearn&show_icons=true" alt="Chris Young' github stats" />
 -->
 
-### Hi there, I'm [Chrislearn Young](https://chrislearn.im) 🎉
+### Hi there, I'm [Chris Young](https://chrislearn.im) 🎉
 
 - 👨 Nanjing, China 🇨🇳
 - 💗 Programming
